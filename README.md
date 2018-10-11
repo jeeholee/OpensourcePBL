@@ -1,2 +1,0 @@
-# OpensourcePBL
-open_source
